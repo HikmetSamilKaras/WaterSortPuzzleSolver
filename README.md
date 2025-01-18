@@ -1,4 +1,5 @@
-Note: If you want to use this algorithm on different applications you can use the watersolver() method in watersolve.py 
+To use this algorithm use the watersolver() method in watersolve.py 
+
 You will have to format your water bottles as follows:
 You will have to have a list of water bottles as your input to watersolver()
 Every water bottle is a list with information on its spaces (top of the water bottle will correspond to list index 0)
