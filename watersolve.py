@@ -104,5 +104,3 @@ def watersolver(arr):
         return ans
     else:
         return "No solution"
-
-print(watersolver([[1,1,2,2],[1,1,3,2],[3,3,3,2],[0,0,0,0]]))
